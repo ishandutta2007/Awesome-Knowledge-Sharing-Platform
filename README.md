@@ -64,9 +64,9 @@ Below is a curated comparison of leading SaaS knowledge bases, team wikis, and d
 
 Open-source knowledge management tools give organizations full ownership over their institutional data, eliminating per-seat SaaS costs while satisfying strict compliance and security policies.
 
-Sorted by GitHub Star Count (Descending):
+Sorted by GitHub Stars_Count (Descending):
 
-| Project 📦 | Description 📝 | GitHub Stars ⭐ | License 📜 |
+| Project 📦 | Description 📝 | GitHub_Stars ⭐ | License 📜 |
 | :--- | :--- | :--- | :--- |
 | **[AFFiNE](https://github.com/toeverything/AFFiNE)** | Privacy-focused, local-first workspace combining block documents and infinite canvas. Notion + Miro alternative with AI assistance. | [![AFFiNE Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | MIT |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | Open-source Notion alternative built with Flutter and Rust. Local-first architecture with offline support and kanban databases. | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | AGPL-3.0 |
