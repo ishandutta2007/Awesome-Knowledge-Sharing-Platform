@@ -64,7 +64,7 @@ Below is a curated comparison of leading SaaS knowledge bases, team wikis, and d
 
 Open-source knowledge management tools give organizations full ownership over their institutional data, eliminating per-seat SaaS costs while satisfying strict compliance and security policies.
 
-Sorted by GitHub Stars_Count (Descending):
+Sorted by GitHub_Stars_Count (Descending):
 
 | Project 📦 | Description 📝 | GitHub_Stars ⭐ | License 📜 |
 | :--- | :--- | :--- | :--- |
