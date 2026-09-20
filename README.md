@@ -230,3 +230,12 @@ Self-hosted open-source solutions require regular maintenance, security updates,
 
 Made for engineering teams, technical writers, product managers, and knowledge workers.
 Let's make knowledge sharing more open, transparent, and collaborative.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Knowledge-Sharing-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Knowledge-Sharing-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Knowledge-Sharing-Platform_growth.svg">
+  </picture>
+</a>
