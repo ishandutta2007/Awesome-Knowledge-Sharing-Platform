@@ -57,6 +57,7 @@ Below is a curated comparison of leading SaaS knowledge bases, team wikis, and d
 | **[Nuclino](https://www.nuclino.com)** | Ultra-fast, lightweight collaborative wiki combining real-time document editing with interactive visual graph views. | **~$4.20M** (Valuation, ~$598K ARR) | $5.00 / user / month (Standard Plan) | **Forever Free Plan:** Capped at 50 total content items, 2 GB total storage limit. |
 | **[KnowledgeOwl](https://www.knowledgeowl.com)** | Flexible knowledge base software with customizable CSS/JS layouts, role-based access, and unlimited reader access. | **~$750.00K** (Estimated ARR) | $79.00 / month (Flex Plan, 1 author included, unlimited readers) | **30-Day Free Trial:** Full feature access with unlimited test authors and readers. No permanent free tier. |
 | **[Slab](https://slab.com)** | Modern team wiki featuring a clean block editor, unified cross-app search, and doc verification workflows. | **~$500.00K** (Estimated ARR) | $6.67 / user / month (Startup Plan) | **Forever Free Plan:** Up to 10 users, 10 GB total storage, basic integrations. |
+| [AI Group Call](https://aigroupcall.app) | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. | - | - | - |
 
 ---
 
